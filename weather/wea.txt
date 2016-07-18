@@ -1,0 +1,22 @@
+city:上海
+
+date:07-18		day:多云(33°C )		night:雷阵雨( 27°C)
+
+date:07-19		day:多云(34°C )		night:雷阵雨( 27°C)
+
+date:07-20		day:多云(36°C )		night:多云( 28°C)
+
+date:07-21		day:晴(35°C )		night:多云( 28°C)
+
+date:07-22		day:晴(36°C )		night:多云( 28°C)
+
+date:07-23		day:多云(36°C )		night:多云( 28°C)
+
+date:07-24		day:雷雨(33°C )		night:局部多云( 27°C)
+
+date:07-25		day:雷雨(33°C )		night:零散雷雨( 27°C)
+
+date:07-26		day:雷雨(32°C )		night:雷雨( 27°C)
+
+date:07-27		day:雷雨(32°C )		night:雷雨( 27°C)
+
