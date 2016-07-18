@@ -5,11 +5,11 @@ from email.mime.text import MIMEText
 from email.header import Header
 
 m_host = "smtp.163.com"
-m_user = "fdwanghan"
-m_password = "tongtong"
+m_user = "URusername"
+m_password = "URpassword"
 
-sender = 'fdwanghan@163.com'
-receivers = ['fdwanghan@163.com']
+sender = 'xxx@163.com'
+receivers = ['xxx@xxx.com']
 
 sender_name = "i@github.com"
 receiver_name = ""
